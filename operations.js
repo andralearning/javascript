@@ -32,7 +32,7 @@ console.log( age == 12 )
 // Egalitée Strict => True
 console.log( age === 11)
 // Egalitée Strict => False
-console.log( age === "11")
+console.log( age == "11")
 // Egalitée => True
 console.log( age == "11")
 
